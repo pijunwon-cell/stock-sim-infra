@@ -244,3 +244,8 @@ Internet -> OPNsense (방화벽, NAT, WireGuard 게이트웨이)
 ## 13. 사용 기술
 
 OPNsense, WireGuard, Nginx, PHP-FPM, ModSecurity (OWASP CRS), Suricata, Graylog, OpenSearch, MariaDB, Filebeat, Packetbeat, Ubuntu Server
+
+## 문서
+
+- [인프라 구축 보고서](docs/인프라_구축_보고서.pdf)
+- [수행 결과 보고서](docs/수행_결과_보고서.pdf)
